@@ -76,7 +76,7 @@
         cp apps/${app}/migrations/*.py $jumpserver_backup/${app}_migrations
       done
 
-2. 备份数据库，已被不时之需
+2. 备份数据库，已备不时之需
 
 ::
 
